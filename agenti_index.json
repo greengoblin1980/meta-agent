@@ -1,0 +1,10 @@
+[
+    {
+        "name": "agente01_crea_un_agente_che_analizza_le",
+        "description": "Crea un agente che analizza le ultime notizie su Sinner e genera un riassunto."
+    },
+    {
+        "name": "agente02_trova_le_ultime_notizie_su_sin",
+        "description": "trova le ultime notizie su sinner"
+    }
+]
